@@ -1,0 +1,21 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+  background-color: #333;
+  color: white;
+}
+
+input {
+  padding: 8px;
+  width: 200px;
+  background-color: #555;
+  color: white;
+  border: none;
+}
+
+form {
+  display: grid;
+  grid-template-columns: 30% 70%;
+  align-items: center;
+  gap: 1em;
+}
